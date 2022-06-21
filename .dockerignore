@@ -1,0 +1,14 @@
+Dockerfile*
+target
+integration_tests/blockstack-consensus-data/
+integration_tests/test-out/
+api/data
+.git
+.venv
+.dockerignore
+testnet/index.html
+testnet.log
+testnet-logs*
+legacy
+build-scripts
+dist
